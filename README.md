@@ -22,5 +22,5 @@ Formada em Licenciatura em Matemática e Graduanda em Engenharia Elétrica  pelo
 
 ## Projetos:
 Veja os tutoriais publicados de Paula Bezerra
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Cheatsheet de Markdown** https://bit.ly/3t8szhA
 
