@@ -1,2 +1,2 @@
-# Paula-Bezerra
+# Paula_Bezerra
 Meu portfólio de projetos
