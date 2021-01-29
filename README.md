@@ -7,13 +7,13 @@ Meu portfólio de projetos
 </p>
 
 # Paula Bezerra
-<sub>*Aprendiz de Data Sciense* </sub>
+<sub>*Aprendiz de Data Sciense e Python* </sub> 
 
 Aprendiz iniciante de Data Sciense e Python pela Sigmoidal de Carlos Melo
 
 Formada em Licenciatura em Matemática e Graduanda em Engenharia Elétrica  pelo Instituto Federal da Bahia
 
-**Background in:** Matemática, Física, Desenho Técnico, Eletrotécnica
+**Background in:** Maemática Física, Desenho écnico, Eletrotécnica
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/paula-bezerra-2780a51b5/)
