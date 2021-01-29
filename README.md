@@ -13,7 +13,7 @@ Aprendiz iniciante de Data Sciense e Python pela Sigmoidal de Carlos Melo
 
 Formada em Licenciatura em Matemática e Graduanda em Engenharia Elétrica  pelo Instituto Federal da Bahia
 
-**Background in:** Maemática Física, Desenho écnico, Eletrotécnica
+**Aulas ministradas** Matemática, Física, Desenho Técnico, Eletrotécnica
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/paula-bezerra-2780a51b5/)
@@ -21,6 +21,6 @@ Formada em Licenciatura em Matemática e Graduanda em Engenharia Elétrica  pelo
 
 
 ## Projetos:
-Veja os tutoriais publicados de Paula Bezerra
+Veja os  materiaia visualizados por Paula Bezerra:
 * **Cheatsheet de Markdown** https://bit.ly/3t8szhA
 
