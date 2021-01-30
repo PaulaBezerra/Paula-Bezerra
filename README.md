@@ -21,6 +21,6 @@ Formada em Licenciatura em Matemática e Graduanda em Engenharia Elétrica  pelo
 
 
 ## Projetos:
-Veja os  materiaia visualizados por Paula Bezerra:
+Veja as publicações visualizadas por Paula Bezerra:
 * **Cheatsheet de Markdown** https://bit.ly/3t8szhA
 
